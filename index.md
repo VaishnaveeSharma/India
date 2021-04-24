@@ -4,7 +4,7 @@ Strict policies were imposed by government from March - mid May so the covid-19 
 
 ![alt text](indiaPM.PNG "Covid-19 cases and deaths per million")
 
-For more information on increase [check out]("https://www.bbc.com/news/world-asia-india-53969118")
+For more information on increase [check out](https://www.bbc.com/news/world-asia-india-53969118)
 
 In August, India has again tightened the restrictions to have a control on covid-19 infections. Refer the image.
 
